@@ -1,0 +1,13 @@
+- If we need to do action from bottom of tree, structure of code mostly is like (recursive solution)
+      base case
+      recursive calls
+      our calculation part
+      
+- If we need to do action from top to bottom, code structure is like
+      base case
+      our calculations
+      recursive call
+      
+    
+WHAT TO ADD NEXT
+- More to come....
