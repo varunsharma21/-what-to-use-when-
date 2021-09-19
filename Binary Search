@@ -1,3 +1,13 @@
-#Binary Search
--Array is sorted.
--Array is mountain/bitonic array.
+BINARY SEARCH
+- Array is sorted.
+- Array is mountain/bitonic array.
+- Array containing several bitonic parts.
+- Can also be applied in 2d array and MOST of the problems could be solved in O(n + logm), TRICK - try to cut the search space.
+
+THINGS TO LOOK SERIOUSLY IN BINARY SEARCH
+- Learn where to use while(start <= end) and while(start < end) conditions. Tip dry running code will help.
+
+TO ADD THINGS
+1. links to leetcode medium problems.
+2. 2 examples of 2D matrix binary search.
+3. Anything I will learn in future.
